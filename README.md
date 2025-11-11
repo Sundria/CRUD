@@ -1,0 +1,1 @@
+comando para usar o eslint --->  npx eslint . --fix         ou    --->    npm run lint:fix
